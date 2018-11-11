@@ -23,5 +23,6 @@ echo $cars['BMW']['model']." ".$cars['BMW']['speed']." ".$cars['BMW']['doors']."
 echo "CAR - TOYOTA\n";
 echo $cars['TOYOTA']['model']." ".$cars['TOYOTA']['speed']." ".$cars['TOYOTA']['doors'];
 echo " ".$cars['TOYOTA']['year']."\n";
+
 echo "CAR - OPEL\n";
 echo $cars['OPEL']['model']." ".$cars['OPEL']['speed']." ".$cars['OPEL']['doors']." ".$cars['OPEL']['year']."\n";
